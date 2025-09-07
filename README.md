@@ -2,6 +2,8 @@
 
 A dynamic and responsive client-side web application built with Vanilla JavaScript that simulates a real-world employee and manager dashboard. This project features role-based access, persistent data storage using localStorage, and a complete set of tools for task management, performance tracking, and team communication.
 
+Live Demo Link: https://arpita0207.github.io/Employee-Task-Management-System/
+
 ## Features
 
 ### Manager Dashboard
